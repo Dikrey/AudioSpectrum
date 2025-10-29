@@ -1,7 +1,3 @@
-
-
-Saya akan buatkan README.md yang profesional dan menarik untuk GitHub repository Anda!
-
 ```markdown
 # 🎵 VisualCodePo - Audio Spectrum Visualizer
 
@@ -12,7 +8,7 @@ Saya akan buatkan README.md yang profesional dan menarik untuk GitHub repository
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Dikrey/AudioSpectrum/pulls)
 [![Live Demo](https://img.shields.io/badge/demo-live-orange.svg)](https://linktr.ee/Visualcodepo)
 
----
+
 
 
 
