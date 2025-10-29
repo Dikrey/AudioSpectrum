@@ -270,4 +270,4 @@ SOFTWARE.
 [![Back to top](https://img.shields.io/badge/Back%20to%20Top-↑-blue.svg)](#visualcodepo---audio-spectrum-visualizer)
 
 </div>
-```
+
