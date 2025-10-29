@@ -1,4 +1,3 @@
-```markdown
 # 🎵 VisualCodePo - Audio Spectrum Visualizer
 
 [![GitHub stars](https://img.shields.io/github/stars/Dikrey/AudioSpectrum?style=social)](https://github.com/Dikrey/AudioSpectrum/stargazers)
