@@ -233,7 +233,7 @@ If you use, modify, or deploy this project, you **MUST** keep the following cred
 ## 📄 License
 
 ```
-Copyright (c) 2024 Raihan_Official0307 x VisualCodePo
+Copyright (c) 2025 Raihan_Official0307 x VisualCodePo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
